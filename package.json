@@ -1,0 +1,23 @@
+{
+  "name": "adventjs.dev",
+  "version": "1.0.0",
+  "description": "My adventjs.dev solutions",
+  "private": true,
+  "scripts": {
+    "format": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "eslint": "^8.3.0",
+    "jest": "^27.4.3",
+    "prettier": "2.4.1"
+  },
+  "type": "module"
+}

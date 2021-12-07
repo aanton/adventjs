@@ -1,7 +1,7 @@
 {
-  "name": "adventjs.dev",
+  "name": "adventjs",
   "version": "1.0.0",
-  "description": "My adventjs.dev solutions",
+  "description": "My adventJS solutions",
   "private": true,
   "scripts": {
     "format": "prettier --check .",

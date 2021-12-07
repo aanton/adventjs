@@ -6,11 +6,9 @@ export default function listGifts(letter) {
   return letter
     .trim()
     .split(/\s+/)
+    .filter(gift => !gift.startsWith('_'))
     .reduce((acc, gift) => {
-      if (!gift.startsWith('_')) {
-        acc[gift] = acc[gift] ? acc[gift] + 1 : 1
-      }
-
+      acc[gift] = acc[gift] ? acc[gift] + 1 : 1
       return acc
     }, {})
 }

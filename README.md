@@ -4,9 +4,27 @@ My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) by [@m
 
 Project setup uses:
 
-- [Prettier](https://prettier.io/) & [ESLint](https://eslint.org/) for code formatting & linting
+- [Prettier](https://prettier.io/) for code formatting
+- [ESLint](https://eslint.org/) for code linting
 - [Jest](https://jestjs.io/) for testing
 - vscode settings to run Prettier & ESLint on save
+
+## Installation & usage
+
+- Clone this project
+- Install dependecies
+- Run all tests or run only the day X tests
+
+```bash
+npm install
+
+# Run all tests
+npm run test
+
+# Run day 4 tests (identified by 04 or day04)
+npm run test 04
+npm run test day04
+```
 
 ## Challenges
 

@@ -8,7 +8,8 @@
     "format:fix": "prettier --write .",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +17,9 @@
   "devDependencies": {
     "@types/jest": "^27.0.3",
     "eslint": "^8.3.0",
+    "husky": "^7.0.4",
     "jest": "^27.4.3",
+    "lint-staged": "^12.1.2",
     "prettier": "2.4.1"
   },
   "type": "module",
@@ -24,5 +27,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aanton/adventjs.git"
+  },
+  "lint-staged": {
+    "*.js": "eslint",
+    "*.{js,json,md}": "prettier --check"
   }
 }

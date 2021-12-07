@@ -2,7 +2,7 @@
 
 /**
  * @param {string} letter
- * @return boolean
+ * @returns boolean
  */
 export default function isValid(letter) {
   let indexOpenMark = letter.indexOf('(')
@@ -27,7 +27,7 @@ export default function isValid(letter) {
 
 /**
  * @param {string} letter
- * @return boolean
+ * @returns boolean
  */
 export function isValidUsingRegex(letter) {
   const gifts = letter.match(/\((.*?)(\)|$)/gm)

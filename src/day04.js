@@ -1,6 +1,6 @@
 /**
  * @param {number} height
- * @return string
+ * @returns string
  */
 export default function createXmasTree(height) {
   const data = []

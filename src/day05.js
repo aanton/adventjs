@@ -1,5 +1,6 @@
 /**
- * @param {Date} date
+ * @param {Date} datetime
+ * @returns number
  */
 export default function daysToXmas(datetime) {
   const xmasDay = new Date('Dec 25, 2021')

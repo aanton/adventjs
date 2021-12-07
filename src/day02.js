@@ -1,6 +1,6 @@
 /**
  * @param {string} letter
- * @return {Object.<string, number>}
+ * @returns {Object.<string, number>}
  */
 export default function listGifts(letter) {
   return letter

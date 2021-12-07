@@ -1,6 +1,6 @@
 /**
  * @param {{name: string, color: string}[]} sheeps
- * @return {{name: string, color: string}[]}
+ * @returns {{name: string, color: string}[]}
  */
 export default function countSheeps(sheeps) {
   return sheeps.filter(

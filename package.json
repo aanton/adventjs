@@ -19,5 +19,10 @@
     "jest": "^27.4.3",
     "prettier": "2.4.1"
   },
-  "type": "module"
+  "type": "module",
+  "homepage": "https://github.com/aanton/adventjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanton/adventjs.git"
+  }
 }

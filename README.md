@@ -36,3 +36,4 @@ npm run test day04
 - Day 5: Contando los días para los regalos ([rules](https://adventjs.dev/challenges/05)) ([tests](./tests/day05.test.js)) ([code](./src/day05.js))
 - Day 6: Rematando los exámenes finales ([rules](https://adventjs.dev/challenges/06)) ([tests](./tests/day06.test.js)) ([code](./src/day06.js))
 - Day 7: Buscando en el almacén... ([rules](https://adventjs.dev/challenges/07)) ([tests](./tests/day07.test.js)) ([code](./src/day07.js))
+- Day 8: La locura de las criptomonedas ([rules](https://adventjs.dev/challenges/08)) ([tests](./tests/day08.test.js)) ([code](./src/day08.js))

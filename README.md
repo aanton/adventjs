@@ -8,7 +8,7 @@ Project setup uses:
 - [ESLint](https://eslint.org/) for code linting
 - [Jest](https://jestjs.io/) for testing
 - vscode settings to run Prettier & ESLint on save
-- Pre-commit hook using [husky](https://typicode.github.io/husky/) [lint-staged](https://github.com/okonet/lint-staged) to ckeck code formatting & linting (Prettier & EsLint)
+- Pre-commit hook using [husky](https://typicode.github.io/husky/) & [lint-staged](https://github.com/okonet/lint-staged) to ckeck code formatting & linting (Prettier & EsLint)
 
 ## Installation & usage
 

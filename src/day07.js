@@ -5,11 +5,11 @@
  */
 export default function isProductInStore(store, product) {
   const flattenObjectValues = (/** @type {Object} */ object) => {
-    let values = []
+    const values = []
 
     Object.values(object).forEach(value => {
       if (typeof value === 'object') {
-        values = [...values, ...flattenObjectValues(value)]
+        values.push(...flattenObjectValues(value))
       } else {
         values.push(value)
       }

@@ -9,7 +9,7 @@ const cases = [
 
 describe('Day 8 challenge', () => {
   test.each(cases)(
-    'Given $input prices, returns $expected',
+    'gets a $expected max profit using $input prices',
     ({input, expected}) => {
       expect(maxProfit(input)).toBe(expected)
     }

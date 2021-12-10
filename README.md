@@ -38,3 +38,4 @@ npm run test day04
 - Day 7: Buscando en el almacén... ([rules](https://adventjs.dev/challenges/07)) ([tests](./tests/day07.test.js)) ([code](./src/day07.js))
 - Day 8: La locura de las criptomonedas ([rules](https://adventjs.dev/challenges/08)) ([tests](./tests/day08.test.js)) ([code](./src/day08.js))
 - Day 9: Agrupando cosas automáticamente ([rules](https://adventjs.dev/challenges/09)) ([tests](./tests/day09.test.js)) ([code](./src/day09.js))
+- Day 10: La máquina de cambio ([rules](https://adventjs.dev/challenges/10)) ([tests](./tests/day10.test.js)) ([code](./src/day10.js))

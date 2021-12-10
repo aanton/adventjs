@@ -1,4 +1,4 @@
-# My adventJS solutions
+# 🎅 My adventJS solutions 🎄
 
 My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) by [@midudev](https://twitter.com/midudev).
 
@@ -10,7 +10,7 @@ Project setup uses:
 - vscode settings to run Prettier & ESLint on save
 - Pre-commit hook using [husky](https://typicode.github.io/husky/) & [lint-staged](https://github.com/okonet/lint-staged) to ckeck code formatting & linting (Prettier & EsLint)
 
-## Installation & usage
+## 💻️ Installation & usage
 
 - Clone this project
 - Install dependecies
@@ -27,7 +27,7 @@ npm run test 04
 npm run test day04
 ```
 
-## Challenges
+## 🕹️ Challenges
 
 - Day 1: Contando ovejas para dormir ([rules](https://adventjs.dev/challenges/01)) ([tests](./tests/day01.test.js)) ([code](./src/day01.js))
 - Day 2: ¡Ayuda al elfo a listar los regalos! ([rules](https://adventjs.dev/challenges/02)) ([tests](./tests/day02.test.js)) ([code](./src/day02.js))

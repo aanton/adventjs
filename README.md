@@ -39,3 +39,8 @@ npm run test day04
 - Day 8: La locura de las criptomonedas ([rules](https://adventjs.dev/challenges/08)) ([tests](./tests/day08.test.js)) ([code](./src/day08.js))
 - Day 9: Agrupando cosas automáticamente ([rules](https://adventjs.dev/challenges/09)) ([tests](./tests/day09.test.js)) ([code](./src/day09.js))
 - Day 10: La máquina de cambio ([rules](https://adventjs.dev/challenges/10)) ([tests](./tests/day10.test.js)) ([code](./src/day10.js))
+
+## 💖 Acknowledgements
+
+- [@midudev](https://twitter.com/midudev) for sharing his knowledge with the DEV community in [YouTube](https://midu.tube/), [Twitch](https://midu.live/), [blog](https://midu.dev/), ... & creating [adventJS](https://adventjs.dev/)
+- [@borjapazr](https://twitter.com/borjapazr) for creating [Awesome adventJS](https://github.com/borjapazr/awesome-adventjs)

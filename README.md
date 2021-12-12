@@ -42,6 +42,7 @@ npm run test day04
 | 9   | Agrupando cosas automáticamente              | [rules](https://adventjs.dev/challenges/09) | [tests](./tests/day09.test.js) | [code](./src/day09.js) |
 | 10  | La máquina de cambio                         | [rules](https://adventjs.dev/challenges/10) | [tests](./tests/day10.test.js) | [code](./src/day10.js) |
 | 11  | ¿Vale la pena la tarjeta fidelidad del cine? | [rules](https://adventjs.dev/challenges/11) | [tests](./tests/day11.test.js) | [code](./src/day11.js) |
+| 12  | La ruta perfecta para dejar los regalos      | [rules](https://adventjs.dev/challenges/12) | [tests](./tests/day12.test.js) | [code](./src/day12.js) |
 
 ## 💖 Acknowledgements
 

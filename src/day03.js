@@ -1,13 +1,12 @@
-/*eslint no-constant-condition: ["error", { "checkLoops": false }]*/
-
 /**
  * @param {string} letter
  * @returns boolean
  */
-export default function isValid(letter) {
+export function isValidUsingTraversing(letter) {
   let indexOpenMark = letter.indexOf('(')
   let indexCloseMark = letter.indexOf(')')
 
+  // eslint-disable-next-line no-constant-condition
   while (true) {
     if (indexOpenMark === -1 && indexCloseMark === -1) return true // No parenthesis is allowed
     if (indexOpenMark === -1 || indexCloseMark === -1) return false // Invalid parenthesis pair

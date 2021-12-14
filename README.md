@@ -44,6 +44,7 @@ npm run test day04
 | 11  | ¿Vale la pena la tarjeta fidelidad del cine? | [rules](https://adventjs.dev/challenges/11) | [tests](./tests/day11.test.js) | [code](./src/day11.js) |
 | 12  | La ruta perfecta para dejar los regalos      | [rules](https://adventjs.dev/challenges/12) | [tests](./tests/day12.test.js) | [code](./src/day12.js) |
 | 13  | Envuelve regalos con asteriscos              | [rules](https://adventjs.dev/challenges/13) | [tests](./tests/day13.test.js) | [code](./src/day13.js) |
+| 14  | En busca del reno perdido                    | [rules](https://adventjs.dev/challenges/14) | [tests](./tests/day14.test.js) | [code](./src/day14.js) |
 
 ## 💖 Acknowledgements
 

@@ -45,6 +45,7 @@ npm run test day04
 | 12  | La ruta perfecta para dejar los regalos      | [rules](https://adventjs.dev/challenges/12) | [tests](./tests/day12.test.js) | [code](./src/day12.js) |
 | 13  | Envuelve regalos con asteriscos              | [rules](https://adventjs.dev/challenges/13) | [tests](./tests/day13.test.js) | [code](./src/day13.js) |
 | 14  | En busca del reno perdido                    | [rules](https://adventjs.dev/challenges/14) | [tests](./tests/day14.test.js) | [code](./src/day14.js) |
+| 15  | El salto perfecto                            | [rules](https://adventjs.dev/challenges/15) | [tests](./tests/day15.test.js) | [code](./src/day15.js) |
 
 ## 💖 Acknowledgements
 

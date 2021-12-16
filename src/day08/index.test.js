@@ -1,4 +1,4 @@
-import maxProfit from '../src/day08'
+import maxProfit from './index'
 
 const cases = [
   {input: [39, 18, 29, 25, 34, 32, 5], expected: 16},

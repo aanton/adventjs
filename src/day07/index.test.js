@@ -1,4 +1,4 @@
-import isProductInStore from '../src/day07'
+import isProductInStore from './index'
 
 describe('Day 7 challenge', () => {
   test('finds a product in a store', () => {

@@ -1,4 +1,4 @@
-import listGifts from '../src/day02'
+import listGifts from './index'
 
 describe('Day 2 challenge', () => {
   test('reads gifts from letter', () => {

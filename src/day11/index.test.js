@@ -1,4 +1,4 @@
-import shouldBuyFidelity from '../src/day11'
+import shouldBuyFidelity from './index'
 
 describe('Day 11 challenge', () => {
   test.each([1, 10, 20])(

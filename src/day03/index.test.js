@@ -1,5 +1,5 @@
-// import {isValidUsingTraversing as isValid} from '../src/day03'
-import {isValidUsingRegex as isValid} from '../src/day03'
+// import {isValidUsingTraversing as isValid} from './index'
+import {isValidUsingRegex as isValid} from './index'
 
 describe('Day 3 challenge', () => {
   test('is valid letter without parenthesis', () => {

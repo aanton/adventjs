@@ -1,4 +1,4 @@
-import getCoins from '../src/day10'
+import getCoins from './index'
 
 const cases = [
   {input: 51, expected: [1, 0, 0, 0, 0, 1]},

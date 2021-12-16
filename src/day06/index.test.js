@@ -1,4 +1,4 @@
-import sumPairs from '../src/day06'
+import sumPairs from './index'
 
 describe('Day 6 challenge', () => {
   test('finds a pair', () => {

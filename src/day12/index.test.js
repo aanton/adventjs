@@ -1,4 +1,4 @@
-import getMinJump from '../src/day12'
+import getMinJump from './index'
 
 const cases = [
   {input: [5, 3, 6, 7, 9], expected: 4},

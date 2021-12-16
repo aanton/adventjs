@@ -1,4 +1,4 @@
-import decodeNumber from '../src/day16'
+import decodeNumber from './index'
 
 const cases = [
   {input: '...', expected: 3},

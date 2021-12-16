@@ -1,4 +1,4 @@
-import daysToXmas from '../src/day05'
+import daysToXmas from './index'
 
 describe('Day 5 challenge', () => {
   test('is a previous date', () => {

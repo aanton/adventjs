@@ -1,4 +1,4 @@
-import grouBy from '../src/day09'
+import grouBy from './index'
 
 const cases = [
   {

@@ -1,4 +1,4 @@
-import wrapGifts from '../src/day13'
+import wrapGifts from './index'
 
 const cases = [
   {input: ['📷', '⚽️'], expected: ['****', '*📷*', '*⚽️*', '****']},

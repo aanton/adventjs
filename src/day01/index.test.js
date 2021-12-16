@@ -1,4 +1,4 @@
-import countSheeps from '../src/day01'
+import countSheeps from './index'
 
 describe('Day 1 challenge', () => {
   test('filters sheeps by their color & name', () => {

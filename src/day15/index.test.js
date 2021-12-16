@@ -1,4 +1,4 @@
-import checkSledJump from '../src/day15'
+import checkSledJump from './index'
 
 const cases = [
   {input: [1, 2, 3, 2, 1], expected: true},

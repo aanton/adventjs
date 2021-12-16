@@ -1,4 +1,4 @@
-import missingReindeer from '../src/day14'
+import missingReindeer from './index'
 
 const cases = [
   {input: [0, 2, 3], expected: 1},

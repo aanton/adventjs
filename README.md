@@ -47,6 +47,7 @@ npm run test day04
 | 14  | En busca del reno perdido                    | [rules](https://adventjs.dev/challenges/14) | [tests](./src/day14/index.test.js) | [code](./src/day14/index.js) |
 | 15  | El salto perfecto                            | [rules](https://adventjs.dev/challenges/15) | [tests](./src/day15/index.test.js) | [code](./src/day15/index.js) |
 | 16  | Descifrando los números...                   | [rules](https://adventjs.dev/challenges/16) | [tests](./src/day16/index.test.js) | [code](./src/day16/index.js) |
+| 17  | La locura de enviar paquetes en esta época   | [rules](https://adventjs.dev/challenges/17) | [tests](./src/day17/index.test.js) | [code](./src/day17/index.js) |
 
 ## 💖 Acknowledgements
 

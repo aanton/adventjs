@@ -49,6 +49,7 @@ npm run test day04
 | 16  | Descifrando los números...                   | [rules](https://adventjs.dev/challenges/16) | [tests](./src/day16/index.test.js) | [code](./src/day16/index.js) |
 | 17  | La locura de enviar paquetes en esta época   | [rules](https://adventjs.dev/challenges/17) | [tests](./src/day17/index.test.js) | [code](./src/day17/index.js) |
 | 18  | El sistema operativo de Santa Claus          | [rules](https://adventjs.dev/challenges/18) | [tests](./src/day18/index.test.js) | [code](./src/day18/index.js) |
+| 19  | ¿Qué deberíamos aprender en Platzi?          | [rules](https://adventjs.dev/challenges/19) | [tests](./src/day19/index.test.js) | [code](./src/day19/index.js) |
 
 ## 💖 Acknowledgements
 

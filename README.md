@@ -50,6 +50,7 @@ npm run test day04
 | 17  | La locura de enviar paquetes en esta época   | [rules](https://adventjs.dev/challenges/17) | [tests](./src/day17/index.test.js) | [code](./src/day17/index.js) |
 | 18  | El sistema operativo de Santa Claus          | [rules](https://adventjs.dev/challenges/18) | [tests](./src/day18/index.test.js) | [code](./src/day18/index.js) |
 | 19  | ¿Qué deberíamos aprender en Platzi?          | [rules](https://adventjs.dev/challenges/19) | [tests](./src/day19/index.test.js) | [code](./src/day19/index.js) |
+| 20  | ¿Una carta de pangramas? ¡QUÉ!               | [rules](https://adventjs.dev/challenges/20) | [tests](./src/day20/index.test.js) | [code](./src/day20/index.js) |
 
 ## 💖 Acknowledgements
 

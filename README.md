@@ -51,6 +51,7 @@ npm run test day04
 | 18  | El sistema operativo de Santa Claus          | [rules](https://adventjs.dev/challenges/18) | [tests](./src/day18/index.test.js) | [code](./src/day18/index.js) |
 | 19  | ¿Qué deberíamos aprender en Platzi?          | [rules](https://adventjs.dev/challenges/19) | [tests](./src/day19/index.test.js) | [code](./src/day19/index.js) |
 | 20  | ¿Una carta de pangramas? ¡QUÉ!               | [rules](https://adventjs.dev/challenges/20) | [tests](./src/day20/index.test.js) | [code](./src/day20/index.js) |
+| 21  | La ruta con los regalos                      | [rules](https://adventjs.dev/challenges/21) | [tests](./src/day21/index.test.js) | [code](./src/day21/index.js) |
 
 ## 💖 Acknowledgements
 

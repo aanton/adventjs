@@ -55,6 +55,7 @@ npm run test day04
 | 22  | ¿Cuantos adornos necesita el árbol?                               | [rules](https://adventjs.dev/challenges/22) | [tests](./src/day22/index.test.js) | [code](./src/day22/index.js) |
 | 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? | [rules](https://adventjs.dev/challenges/23) | [tests](./src/day23/index.test.js) | [code](./src/day23/index.js) |
 | 24  | Comparando árboles de Navidad                                     | [rules](https://adventjs.dev/challenges/24) | [tests](./src/day24/index.test.js) | [code](./src/day24/index.js) |
+| 25  | El último juego y hasta el año que viene 👋                       | [rules](https://adventjs.dev/challenges/25) | [tests](./src/day25/index.test.js) | [code](./src/day25/index.js) |
 
 ## 💖 Acknowledgements
 

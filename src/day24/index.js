@@ -18,9 +18,9 @@ export default function checkIsSameTree(treeA, treeB) {
   const inverseTree = function (tree) {
     return JSON.parse(
       JSON.stringify(tree)
-        .replace(/left/g, 'tmp')
-        .replace(/right/g, 'left')
-        .replace(/tmp/g, 'right')
+        .replaceAll('left', 'tmp')
+        .replaceAll('right', 'left')
+        .replaceAll('tmp', 'right')
     )
   }
 

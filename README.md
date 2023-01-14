@@ -1,6 +1,6 @@
-# 🎅 My adventJS solutions 🎄
+# 🎅 My adventJS solutions (2021 edition) 🎄
 
-My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) by [@midudev](https://twitter.com/midudev).
+My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) (2021 edition) by [@midudev](https://twitter.com/midudev).
 
 ## 💅 Project setup
 
